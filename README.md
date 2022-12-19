@@ -1,2 +1,5 @@
 DWC
 DMM WEBCAMP Rubyを学ぼうの復習
+
+ISBN978-4-7973-9984-4
+楽しいRuby 第6版
